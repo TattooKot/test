@@ -13,4 +13,8 @@ public class Base {
     public int multiplication(int a, int b){
         return a*b;
     }
+
+    public double sqrtBad(int a){
+        return Math.sqrt(a);
+    }
 }
